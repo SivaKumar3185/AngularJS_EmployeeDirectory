@@ -1,0 +1,14 @@
+<section class="employeeinfo">
+	<div class="employee cf" ng-model="employee">
+		<a href="#/details/{{prevItem}}" class="btn btn-left">&lt;</a>
+		<a href="#/details/{{nextItem}}" class="btn btn-left">&gt;</a>
+		<h1>{{employee[whichItem].name}}</h1>
+		<div class="info">
+			
+			<img ng-src="images/{{employee[whichItem].shortname}}.jpg" alt="Photo of {{employee[whichItem].name}}" />
+			<div class="bio">{{employee[whichItem].bio}}</div>
+			<h3>Expertise: {{employee[whichItem].skills}}</h3>
+		</div>
+	</div>
+	<a href="#/list">&laquo; Back to Search</a>
+</section>	

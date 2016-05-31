@@ -1,0 +1,74 @@
+[
+  {
+    "name":"Siva Kumar Chippala",
+    "shortname":"Siva",
+    "designation":"UI Consultant",
+    "company":"Compassites",
+    "skills":"HTML4/5, CSS2/3, Bootstrap, JavaScript, JQuery, SASS, LESS, AngularJS, EmberJS, ReactJS ",
+    "bio":"He is a Full Stack Developer / Consultant with 4+ years of experience. He enjoying new challenges in transforming inspiring visual designs into great Web & Mobile Web apps using all of latest technologies"
+  },
+  {
+    "name":"Subrahmanyam Poluru",
+    "shortname":"Subbu",
+    "designation":"UI Consultant",
+    "company":"Apple Inc",
+    "skills":"HTML4/5, CSS2/3, Bootstrap, JavaScript, JQuery, SASS, LESS, AngularJS, EmberJS, ReactJS ",
+    "bio":"He is a Full Stack Developer / Consultant with 8+ years of experience. He enjoying new challenges in transforming inspiring visual designs into great Web & Mobile Web apps using all of latest technologies"
+  },
+  {
+    "name":"Chethan",
+    "shortname":"Chethan",
+    "designation":"UI Consultant",
+    "company":"Compassites",
+    "skills":"HTML4/5, CSS2/3, Bootstrap, JavaScript, JQuery, SASS, LESS, AngularJS, EmberJS, ReactJS ",
+    "bio":"He is a Full Stack Developer / Consultant with 3+ years of experience. He enjoying new challenges in transforming inspiring visual designs into great Web & Mobile Web apps using all of latest technologies"
+  },
+  {
+    "name":"Pradeep Thoma",
+    "shortname":"pradeep",
+    "designation":"UI Consultant",
+    "company":"Compassites",
+    "skills":"HTML4/5, CSS2/3, Bootstrap, JavaScript, JQuery, SASS, LESS, AngularJS, EmberJS, ReactJS ",
+    "bio":"He is a Full Stack Developer / Consultant with 13+ years of experience. He enjoying new challenges in transforming inspiring visual designs into great Web & Mobile Web apps using all of latest technologies"
+  },
+  {
+    "name":"Balu",
+    "shortname":"Balu",
+    "designation":"UI Consultant",
+    "company":"Payoda",
+    "skills":"HTML4/5, CSS2/3, Bootstrap, JavaScript, JQuery, SASS, LESS, AngularJS, EmberJS, ReactJS ",
+    "bio":"He is a Full Stack Developer / Consultant with 2+ years of experience. He enjoying new challenges in transforming inspiring visual designs into great Web & Mobile Web apps using all of latest technologies"
+  },
+  {
+    "name":"Raveesha",
+    "shortname":"Raveesha",
+    "designation":"UI Consultant",
+    "company":"Mobilerays",
+    "skills":"HTML4/5, CSS2/3, Bootstrap, JavaScript, JQuery, SASS, LESS, AngularJS, EmberJS, ReactJS ",
+    "bio":"She is a Full Stack Developer / Consultant with 2+ years of experience. She enjoying new challenges in transforming inspiring visual designs into great Web & Mobile Web apps using all of latest technologies"
+  },
+  {
+    "name":"Rama Krishna",
+    "shortname":"Rakhi",
+    "designation":"UI Consultant",
+    "company":"Tech Mahindra",
+    "skills":"HTML4/5, CSS2/3, Bootstrap, JavaScript, JQuery, SASS, LESS, AngularJS, EmberJS, ReactJS ",
+    "bio":"He is a Full Stack Developer / Consultant with 3+ years of experience. He enjoying new challenges in transforming inspiring visual designs into great Web & Mobile Web apps using all of latest technologies"
+  },
+  {
+    "name":"Eswar",
+    "shortname":"Eswar",
+    "designation":"UI Consultant",
+    "company":"Mobilerays",
+    "skills":"HTML4/5, CSS2/3, Bootstrap, JavaScript, JQuery, SASS, LESS, AngularJS, EmberJS, ReactJS ",
+    "bio":"He is a Full Stack Developer / Consultant with 3+ years of experience. He enjoying new challenges in transforming inspiring visual designs into great Web & Mobile Web apps using all of latest technologies"
+  },
+  {
+    "name":"Mohan Chippala",
+    "shortname":"Mohan",
+    "designation":"UI Consultant",
+    "company":"Accenture",
+    "skills":"HTML4/5, CSS2/3, Bootstrap, JavaScript, JQuery, SASS, LESS, AngularJS, EmberJS, ReactJS ",
+    "bio":"He is a Full Stack Developer / Consultant with 8+ years of experience. He enjoying new challenges in transforming inspiring visual designs into great Web & Mobile Web apps using all of latest technologies"
+  }
+]

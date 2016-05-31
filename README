@@ -1,0 +1,25 @@
+/**** Employee Ditrctory ****/
+
+You Can find Employee's Details. 
+
+This app developed in AngularJS
+
+Features:
+
+1. MVC Architecture
+
+2. Complex Modules
+
+3. $http Service to read Json
+
+4. Filtering Content Using Directives
+
+5. Deep Linking
+
+6. Working with $routeProvider Service
+
+7. Wiring up to another partials.
+
+8. Adding Navigation
+
+9. Angular Animations

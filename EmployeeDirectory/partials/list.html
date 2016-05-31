@@ -1,0 +1,36 @@
+<section class="employeepage">
+  <div class="search">
+    <h1>Employee Directory</h1>
+    <label>Search:</label>
+    <input ng-model="query" placeholder="Search for employee" autofocus>
+
+    <label class="formgroup">by:
+      <select ng-model="employeeOrder">
+        <option value="name"> Name </option>
+        <option value="company"> Company </option>
+      </select>
+    </label>
+
+    <label class="formgroup">
+      <input type="radio" ng-model="direction" name="direction" checked>
+      ascending
+    </label>
+    <label class="formgroup">
+      <input type="radio" ng-model="direction" name="direction" value="reverse">
+      descending
+    </label>
+
+  </div>
+    <ul class="employeelist" ng-show="query">
+      <li ng-animate="animate" class="employee cf" ng-repeat="item in employee | filter: query | orderBy: employeeOrder:direction">
+      	<a href="#/details/{{employee.indexOf(item)}}">
+	        <img ng-src="images/{{item.shortname}}.jpg" alt="Photo of {{item.name}}">
+	        <div class="info">
+	          <h2>{{item.name}}</h2>
+	          <h3>Designation: {{item.designation}}</h3>
+            <h4>Company: {{item.company}}</h4>
+	        </div>
+        </a>
+      </li>
+    </ul>
+</section>
